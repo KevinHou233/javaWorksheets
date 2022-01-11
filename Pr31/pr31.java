@@ -15,7 +15,5 @@ public class pr31 {
         }
         while (x <= 0 || x > 100 || x % 2 != 0);
         System.out.println("Thank you");
-
-
     }
 }
